@@ -26,6 +26,7 @@ TARGET_LIBINIT_DEFINES_FILE := device/samsung/klte/init/init_klte.c
 TARGET_UNIFIED_DEVICE := true
 
 # NFC
+TARGET_USES_OS_NFC := true
 BOARD_NFC_CHIPSET := pn547
 
 # Partitions
