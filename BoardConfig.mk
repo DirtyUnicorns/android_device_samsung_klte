@@ -24,7 +24,6 @@ USE_PREBUILT_CHROMIUM := true
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/klte/mkbootimg.mk
 TARGET_KERNEL_VARIANT_CONFIG := unicornblood_klte_defconfig
 
-
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
 TARGET_LIBINIT_DEFINES_FILE := device/samsung/klte/init/init_klte.c
