@@ -22,7 +22,8 @@ USE_PREBUILT_CHROMIUM := true
 
 # Kernel
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/klte/mkbootimg.mk
-TARGET_KERNEL_VARIANT_CONFIG := msm8974pro_sec_klte_eur_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := unicornblood_klte_defconfig
+
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
